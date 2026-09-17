@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 data/*
 !data/operation_map.xlsx
+!data/plan.json
 .DS_Store
 examples/
 
